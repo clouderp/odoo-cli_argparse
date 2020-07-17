@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="744.09448819" height="1052.3622047" id="svg3263" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="terminal.svg">
+  <defs id="defs3265">
+    <filter inkscape:collect="always" id="filter4104">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.83336593" id="feGaussianBlur4106"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter4172" x="-0.13154824" width="1.2630965" y="-0.19454643" height="1.3890929">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="8.1029346" id="feGaussianBlur4174"/>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="478.06195" inkscape:cy="370.11816" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1030" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1"/>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <rect style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#bcbbba;stroke-width:17.37;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect3271" width="542.85712" height="330" x="122.85714" y="363.79074" ry="40.032959"/>
+    <text xml:space="preserve" style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;filter:url(#filter4172)" x="139.36914" y="465.04187" id="text4127-6" sodipodi:linespacing="125%">
+      <tspan sodipodi:role="line" id="tspan4129-7" x="139.36914" y="465.04187" style="font-size:120px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold">&gt;_</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans" x="139" y="464.36218" id="text4127" sodipodi:linespacing="125%">
+      <tspan sodipodi:role="line" id="tspan4129" x="139" y="464.36218" style="font-size:120px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold">&gt;_</tspan>
+    </text>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Command line</dc:title>
+        <dc:date>2013-02-04T14:03:30</dc:date>
+        <dc:description>A simple command line icon.</dc:description>
+        <dc:source>http://openclipart.org/detail/174814/command-line-by-rendon-174814</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rendon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Command line</rdf:li>
+            <rdf:li>bash</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>terminal</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
